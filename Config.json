@@ -1,0 +1,6 @@
+{
+    "Handlers": [
+        "Events",
+        "Commands"
+    ]
+}
